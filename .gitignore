@@ -1,0 +1,3 @@
+# i created it to ignore connection file but then saw that it is a bad idea
+.DS_Store
+*.log

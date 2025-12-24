@@ -1,0 +1,7 @@
+[
+{"idTraffic":"1","traffic":"Light"},
+{"idTraffic":"2","traffic":"Medium"},
+{"idTraffic":"3","traffic":"Heavy"},
+{"idTraffic":"4","traffic":"Congested"},
+{"idTraffic":"5","traffic":"Stop-and-g"}
+]
